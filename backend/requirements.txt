@@ -1,0 +1,13 @@
+Flask
+Werkzeug
+flask-cors
+python-dotenv
+gunicorn
+click
+itsdangerous
+Jinja2
+MarkupSafe
+
+# Optional dependencies for enhanced functionality
+ffmpeg-python
+Pillow
